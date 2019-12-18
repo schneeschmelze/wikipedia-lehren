@@ -1,4 +1,4 @@
-In this repository I collect materials I used for teaching Wikipedia at schools and in higher education in Germany.
+In this repository I collect handouts, bibliographies, etc. I used for teaching Wikipedia at schools and in higher education in Germany.
 
 All files are published under [CC-by-sa 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode) by Juergen Fenn.
 
